@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Golang, Typescript & CI/CD
 - 📫 How to reach me: tuhcmus98@gmail.com
 - 😄 Pronouns: Mr. Tu Nguyen
-- 👋 Visit my [Website](https://tunv98.github.io/design-me/) and [Linkedln] (https://www.linkedin.com/in/tuhcmus98/)
+- 👋 Visit my [Website](https://tunv98.github.io/design-me/) and [Linkedln](https://www.linkedin.com/in/tuhcmus98/)
 
 ## Leetcode stats
 ![Rank](https://badges.peiyuan.ch/leetcode/tuhcmus98/ranking?logo=leetcode&label=tuhcmus98&color=green)
